@@ -4,6 +4,7 @@ import "hardhat-deploy";
 import "hardhat-deploy-ethers";
 import "hardhat-abi-exporter";
 import "hardhat-gas-reporter";
+import "hardhat-contract-sizer";
 import "solidity-coverage";
 
 import "./tasks/accounts";
